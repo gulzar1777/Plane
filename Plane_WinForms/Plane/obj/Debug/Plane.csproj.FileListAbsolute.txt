@@ -1,0 +1,14 @@
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\beep.wav
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\inishazirliklari.wav
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\isikacmakapamasesi.wav
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\isiq.png
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\kemerler.wav
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\tesekkurler.wav
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\teyyare.png
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Assets\turbulans.wav
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Plane.exe
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\bin\Debug\Plane.pdb
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\obj\Debug\Plane.csproj.AssemblyReference.cache
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\obj\Debug\Plane.csproj.CoreCompileInputs.cache
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\obj\Debug\Plane.exe
+C:\Users\ewez\Downloads\Plane_WinForms_GitHub\Plane_WinForms\Plane\obj\Debug\Plane.pdb
